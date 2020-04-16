@@ -11,7 +11,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
         $(document).ready(function() {
-            $("a[href*='" + location.pathname + "']").addClass("current");
+            if(location.pathname != "/"){
+   $("a[href*='" + location.pathname + "']").addClass("current");
+   }
+            
         });
     </script>
 </head>
@@ -26,7 +29,7 @@
     </header>
     <nav id="navigation">
         <ul>
-            <li><a class="current" href="{{ site.url }}/me">About me</a></li>
+            <li><a class="current" href="/">About me</a></li>
             <li><a href="/blog">Blog</a></li>
             <li><a href="/contact">Contact</a></li>
         </ul>
