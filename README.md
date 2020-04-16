@@ -10,9 +10,8 @@ I aim to create stuff that makes the user experience easier and enjoyable at the
 
 ## Find me on web :computer:
    ------------ 
-   [Drupal.org](https://www.drupal.org/u/prethiee)
-   [Twitter](https://github.com/prethiee)
-   [LinkedIn](https://www.linkedin.com/in/prethiee/)
-   [StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)
-   [CodePen](https://codepen.io/prethiee)
-
+   [Drupal.org](https://www.drupal.org/u/prethiee)|
+   [Twitter](https://github.com/prethiee)|
+   [LinkedIn](https://www.linkedin.com/in/prethiee/)|
+   [StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)|
+   [CodePen](https://codepen.io/prethiee)|
