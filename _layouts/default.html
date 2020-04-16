@@ -11,10 +11,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
         $(document).ready(function() {
-            if(location.pathname != "/"){
-   $("a[href*='" + location.pathname + "']").addClass("current");
-   }
-            
+
+            $("a[href*='" + location.pathname + "']").addClass("current");
+
         });
     </script>
 </head>
