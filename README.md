@@ -9,8 +9,8 @@ I created this page to keep track of the tech-stack I learnt and worked with all
 I aim to create stuff that makes the user experience easier and enjoyable at the same time loving what I do.
 
 ## Find me on web :computer:
-<p>[Drupal.org](https://www.drupal.org/u/prethiee)</p>
-<p>[Twitter](https://github.com/prethiee)</p>
-<p>[LinkedIn](https://www.linkedin.com/in/prethiee/)</p>
-<p>[StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)</p>
-<p>[CodePen](https://codepen.io/prethiee)</p>
+* [Drupal.org](https://www.drupal.org/u/prethiee)
+* [Twitter](https://github.com/prethiee)
+* [LinkedIn](https://www.linkedin.com/in/prethiee/)
+* [StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)
+* [CodePen](https://codepen.io/prethiee)
