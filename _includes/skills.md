@@ -1,6 +1,6 @@
 ### Dev Stack  
 > - [x] Container Based - Lando
-> - [x] LAMP - Ubuntu, Fedora, Apache, MySQL, and PHP
+> - [x] LAMP - Distro [Ubuntu, Fedora]
 > - [x] WAMP
 > - [x] XAMPP
 
