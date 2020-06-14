@@ -12,6 +12,7 @@ I aim to create stuff that makes the user experience easier and enjoyable at the
 * [CodePen](https://codepen.io/prethiee)
 * [Drupal.org](https://www.drupal.org/u/prethiee)
 * [GitHub](https://github.com/prethiee)
+* [Instagram](https://www.instagram.com/prethiee/)
 * [LinkedIn](https://www.linkedin.com/in/prethiee/)
 * [StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)
 * [Twitter](https://github.com/prethiee)
