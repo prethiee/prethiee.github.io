@@ -2,11 +2,8 @@
 
 Hi :raising_hand_woman:
 
-I’m Preethi and go by `prethiee` as my SNS handle. I’m a PHP/Drupal Developer at [Axelerant](https://www.axelerant.com/)
+I’m Preethi and go by `prethiee` as my SNS handle. I’m a PHP/Drupal Developer at [Axelerant](https://www.axelerant.com/). This page is a collection tech-stack I learnt and worked over the years and anything that catches my interest that I wanted to write about (still WIP). Though I mostly work with the backend-framework but always was keen on exploring other aspects of the web, with aiming is to create stuff that makes the user experience easier and enjoyable at the same time loving what I do.
 
-I created this page to keep track of the tech-stack I learnt and worked with all along in my career. Even though I mostly work with the backend but always was keen on exploring other aspects of the web.
-
-I aim to create stuff that makes the user experience easier and enjoyable at the same time loving what I do.
 
 ## Find me on web :computer:
 * [CodePen](https://codepen.io/prethiee)
