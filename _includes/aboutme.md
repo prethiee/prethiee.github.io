@@ -12,4 +12,4 @@ I’m Preethi and go by `prethiee` as my SNS handle. I’m a PHP/Drupal Develope
 * [GitHub](https://github.com/prethiee)
 * [LinkedIn](https://www.linkedin.com/in/prethiee/)
 * [StackExchange](https://drupal.stackexchange.com/users/94094/prethiee?tab=profile)
-* [Twitter](https://github.com/prethiee)
+* [Twitter](https://twitter.com/prethiee)
