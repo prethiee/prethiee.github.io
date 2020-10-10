@@ -4,5 +4,5 @@ I wanted to use this page to keep track of the tools and technologies I have use
 `Programming languages:` PHP, Core JAVA, C#, C++, C, Logo <br/>
 `Operating System:` Windows [ NT, 2000, XP, 7, 10], Linux - Distro[ Ubuntu, Fedora] <br/>
 `Technologies, Libraries, Frameworks and Toolkits:` <br/>
-`PHP:` Drupal
-`Java:` SWT, Swing
+`PHP:` Drupal <br/>
+`Java:` SWT, Swing <br/>
