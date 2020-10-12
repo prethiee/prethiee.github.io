@@ -12,7 +12,7 @@ I wanted to use this page to keep track of the tools and technologies I have use
 `JavaScript:` jQuery <br/>
 `RDMS:` MySQL <br/>
 `CSS:` Twitter Bootstrap <br/>
-`IDE:`
+`IDE:`<br/>
   Eclipse, Microsoft Visual Studio, NetBeans <br/>
-`Editors:`
+`Editors:` <br/>
   Notepad++, Atom, Brackets, Komodo Edit, Visual Studio Code <br/>
