@@ -6,7 +6,7 @@ I wanted to use this page to keep track of the tools and technologies I have use
 `Technologies, Libraries, Frameworks and Toolkits:` <br/>
 `PHP:` Drupal <br/>
 `Java:` SWT, Swing <br/>
-`C#:`.NET [ASP.NET, ADO.NET, WCF] <br/>
-`JavaScript`: jQuery <br/>
+`C#:` .NET [ASP.NET, ADO.NET, WCF] <br/>
+`JavaScript:` jQuery <br/>
 `RDMS:` MySQL <br/>
 `CSS:` Twitter Bootstrap <br/>
