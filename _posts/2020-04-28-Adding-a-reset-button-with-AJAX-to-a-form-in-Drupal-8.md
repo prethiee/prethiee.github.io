@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding a reset button with AJAX to a form in Drupal 8.md"
+title: "Adding a reset button with AJAX to a form in Drupal 8"
 date: 2020-04-28
 ---
 Reset button in form can be added directly in `buildForm` method of Form class or using a `hook_form_alter`. 
