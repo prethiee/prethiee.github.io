@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Sep 29 Topic"
+title: "Oct 27 Topic"
 date: 2020-10-27
 ---
