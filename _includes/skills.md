@@ -10,7 +10,7 @@ I wanted to use this page to keep track of the tools and technologies I have use
 `Java:` SWT, Swing <br/>
 `C#:` .NET [ASP.NET, ADO.NET, WCF] <br/>
 `JavaScript:` jQuery <br/>
-`RDMS:` MySQL <br/>
+`RDBMS:` MySQL <br/>
 `CSS:` Twitter Bootstrap <br/>
 `IDE:`<br/>
   Eclipse, Microsoft Visual Studio, NetBeans <br/>
