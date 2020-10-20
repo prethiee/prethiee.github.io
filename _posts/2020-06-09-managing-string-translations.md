@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Saving translation strings with customized label"
+title: "Managing String Translations in Drupal 8."
 date: 2020-06-09
 ---
 The translations for a string can be accessed using the [StringStorageInterface](https://api.drupal.org/api/drupal/core%21modules%21locale%21src%21StringStorageInterface.php/interface/StringStorageInterface/8.2.x) in Drupal 8.
