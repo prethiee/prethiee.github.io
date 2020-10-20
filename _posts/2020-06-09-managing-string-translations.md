@@ -51,7 +51,7 @@ $storage = \Drupal::service('locale.storage');
     return $string_obj;
   }
  ```
- ##### Getting previous translations
+##### Getting previous translations
  ```php
  function get_previous_translation($string_obj, $lang_code) {
  $storage = \Drupal::service('locale.storage');
@@ -61,7 +61,7 @@ $storage = \Drupal::service('locale.storage');
     ])->translation ?? '';
   }
  ```
- ##### Saving the string translation 
+##### Saving the string translation 
  ```php
  function save_translation($string_obj, $translation, $lang_code) {
  $storage = \Drupal::service('locale.storage');
