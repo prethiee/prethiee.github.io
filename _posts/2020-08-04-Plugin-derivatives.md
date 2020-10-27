@@ -19,6 +19,6 @@ Derivatives provide a simple way to expand a single plugin so that it can repres
 Examples: To contruct the routes dynamically for a menu link, or for generating multiple block instance of a specific node type.
 
 Some articles to check on this Example:
-* (Drupal 8 Custom Plugins are addictive)[https://spinningcode.org/2017/01/drupal-8-plugins-are-addictive/]
-* (Tutorial on Using Drupal 8 Plugin Derivatives Effectively)[https://www.sitepoint.com/tutorial-on-using-drupal-8-plugin-derivatives-effectively/]
-* (Dynamic menu links in Drupal 8 with plugin derivatives)[https://www.webomelette.com/dynamic-menu-links-drupal-8-plugin-derivatives]
+* [Drupal 8 Custom Plugins are addictive](https://spinningcode.org/2017/01/drupal-8-plugins-are-addictive/)
+* [Tutorial on Using Drupal 8 Plugin Derivatives Effectively](https://www.sitepoint.com/tutorial-on-using-drupal-8-plugin-derivatives-effectively/)
+* [Dynamic menu links in Drupal 8 with plugin derivatives](https://www.webomelette.com/dynamic-menu-links-drupal-8-plugin-derivatives)
