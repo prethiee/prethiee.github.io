@@ -4,3 +4,4 @@ theme: jekyll-theme-hacker
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jemoji
+  - jekyll-sitemap
