@@ -2,6 +2,7 @@ name: prethiee
 markdown: kramdown
 theme: jekyll-theme-hacker
 permalink: /blog/:year/:month/:day/:title
+url: "https://prethiee.github.io/" 
 plugins:
   - jemoji
   - jekyll-sitemap
