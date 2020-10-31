@@ -6,7 +6,7 @@ date: 2020-08-04
 
 ##### Plugins
 
-Drupal 8 follows the Plugin design pattern, and gives the advantage of extending of a module or service, using one of the four discovery methods
+Drupal 8 follows the Plugin design pattern, and gives the advantage of extending a module or a service, using one of the four discovery methods
 
 1. StaticDiscovery - These are used for test code.
 2. HookDiscovery - D7 carry over hook system, still used in many places.
