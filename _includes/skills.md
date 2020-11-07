@@ -22,10 +22,10 @@ I wanted to use this page to keep track of the tools and technologies I have use
 `Editors:` <br/>
   Notepad++, Atom, Brackets, Komodo Edit, Visual Studio Code <br/>
  `Version Control:` <br/>
- Git, CVS, TFVC
+ Git, CVS, TFVC <br/>
  `Cloud computing:` <br/>
- Docker, Platform.sh
+ Docker, Platform.sh <br/>
  `Graphic Tools:` <br/>
- Photoshop, Lightroom, Autodesk SketchBook, FireAlpaca, GIMP
+ Photoshop, Lightroom, Autodesk SketchBook, FireAlpaca, GIMP <br/>
  
  
