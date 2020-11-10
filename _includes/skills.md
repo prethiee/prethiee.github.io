@@ -6,7 +6,7 @@ I wanted to use this page to keep track of the tools and technologies I have use
  `Stylesheet languages:` <br/>
  CSS, SASS <br/>
  `Markup languages:` <br/>
- HTML, Markdown, XML, XHTML
+ HTML, Markdown, XML, XHTML <br/>
 `Operating System:`<br/> 
   Linux - Distro[ Ubuntu, Fedora], Windows [ NT, 2000, XP, 7, 10] <br/>
 `Technologies, Libraries, Frameworks and Toolkits:` <br/>
