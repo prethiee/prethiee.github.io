@@ -19,5 +19,5 @@ function module_name_views_pre_view($view, $display_id) {
 ```
 **Hiding a filter in a view**
 ```php
-      $view->removeHandler($display_id, 'filter', 'filter_name');  
+  $view->removeHandler($display_id, 'filter', 'filter_name');  
 ```
