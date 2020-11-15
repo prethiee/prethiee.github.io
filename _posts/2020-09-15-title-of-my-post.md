@@ -10,4 +10,4 @@ The [lock](https://api.drupal.org/api/drupal/core%21core.services.yml/service/lo
 * If a function fails to acquire a lock it may either immediately return, or it can call `lock_wait()`. 
 * After `lock_wait()` returns, the function may again attempt to acquire the lock, or may simply allow the page request to proceed on the assumption that a parallel request completed the operation.
 
-The Extending class [DatabaseLockBackend](https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Lock%21DatabaseLockBackend.php/class/DatabaseLockBackend/9.2.x) for refernce.
+The Extending class [DatabaseLockBackend](https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Lock%21DatabaseLockBackend.php/class/DatabaseLockBackend/9.2.x) for reference.
