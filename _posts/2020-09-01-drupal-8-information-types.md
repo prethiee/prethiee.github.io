@@ -22,4 +22,4 @@ This type has information about an individual's site interaction. It is optimize
 This type has the information about the current state of the site. It is stored in the database and it's not meant to be exported. It is specific to an environment and all the data will be lost if the database is reset.
 
 #### Configuration
-Information that is generally user-edited relatively considered to be permanent, and not content. The information(configuration) is considered to be active, that is currently in use in the site. The storage used for the active configuration is configurable: it could be in the database, in files in a particular directory, or in other storage backends; the default storage is in the database.
+Information that is generally user-edited relatively considered to be permanent, and not content. The information(configuration) is considered to be active, that is currently in use in the site. The storage used for the active configuration is configurable. It could be in the database, in files in a particular directory, or in other storage backends.
