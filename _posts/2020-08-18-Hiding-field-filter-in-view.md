@@ -11,7 +11,7 @@ function module_name_views_pre_view($view, $display_id) {
   if ($view->id() == 'view_name') {
     $user_roles = \Drupal::currentUser()->getRoles();
     if (!in_array('administrator', $user_roles)) {
-    // Hide the field name
+    // Removes configuration for a handler instance on a given display.
       $view->removeHandler($display_id, 'field', 'field_name');      
     }
   }
