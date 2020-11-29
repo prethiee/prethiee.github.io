@@ -13,8 +13,8 @@ and check **Force using fields** and save the settings
 
 ![force-using-fields](/blog-29-sep/view-setting-2.png)
 
-Now, again click on settings under unformatted list. Now it shows the option to group by fields. Select the respective field by which the nodes could be 
-grouped.
+Now, again click on settings under unformatted list. It shows the option to group by fields. Select the respective field by which the nodes should be 
+grouped, aand apply the changes.
 
 ![group-field](/blog-29-sep/view-setting-3.png)
 
