@@ -22,4 +22,4 @@ The result now shows the nodes grouped by a taxonomy term.
 
 ![group-result](/blog-29-sep/view-setting-4.png)
 
-In the next installment of the post, we will see how to group the nodes by a taxonomy term field with multiple cardinality for a multilingual site.
+In the next installment of the [post](https://prethiee.github.io/blog/2020/10/13/grouping-nodes-view-mode-2), we will see how to group the nodes by a taxonomy term field with multiple cardinality for a multilingual site.
