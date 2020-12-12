@@ -18,11 +18,11 @@ Here `#target_type` can be any entity including `user`,`taxonomy_term` etc.
 Incase if we wanted to restrict the suggestions to specific content types we can use `target_bundles` selection setting
 
 ```php
-$form['my_element'] = array(
+$form['my_element'] = [
   '#type' => 'entity_autocomplete',
   '#target_type' => 'node',
-  '#selection_settings' => array(
-    'target_bundles' => array('article', 'page'),
-  ),
-);
+  '#selection_settings' => [
+    'target_bundles' => ['article', 'page'],
+  ],
+];
 ```
