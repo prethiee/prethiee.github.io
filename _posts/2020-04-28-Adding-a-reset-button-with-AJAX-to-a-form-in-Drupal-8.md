@@ -7,7 +7,7 @@ Reset button in form can be added directly in `buildForm` method of Form class o
 ```php
 $form['reset'] = [
       '#type' => 'button',
-      '#value' => $this->t('Reset'),
+      '#value' => t('Reset'),
       '#attributes' => [
         'onclick' => 'return false;',
       ],
