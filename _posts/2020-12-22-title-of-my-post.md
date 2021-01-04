@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Dec 22 Topic"
