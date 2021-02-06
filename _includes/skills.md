@@ -26,6 +26,8 @@ I wanted to use this page to keep track of the tools and technologies I have use
  `Cloud computing:` <br/>
  Docker, Platform.sh <br/>
  `Graphic Tools:` <br/>
- Photoshop, Lightroom, Autodesk SketchBook, FireAlpaca, GIMP <br/>
+ Photoshop, Lightroom, Autodesk SketchBook, FireAlpaca, GIMP, CorelDRAW, OpenGL <br/>
+ `ALM:` <br/>
+ Azure DevOps Server[TFS, TFVC], Atlassin[JIRA, Confluence]
  
  
