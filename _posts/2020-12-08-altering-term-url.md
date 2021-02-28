@@ -15,7 +15,6 @@ $element = $variables['element'];
  if ($element['#field_name'] == 'field_taxonomy_term') {
       foreach ($variables['items'] as $index => $item) {
         $variables['items'][$index]['content']['#url'] = Url::fromUri('internal:/<path>');
-;
       }
     }
 }
