@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Block helper functions to get connfig info in Drupal 8"
+title: "Block helper functions to get config info in Drupal 8"
 date: 2021-01-05
 ---
 In this post we will see few helper functions to help us get the values of a block.
