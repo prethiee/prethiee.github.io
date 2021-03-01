@@ -13,8 +13,7 @@ $active_theme_name = \Drupal::theme()->getActiveTheme()->getName();
 
 **Getting admin theme name**
 ```php
-$admin_theme = \Drupal::config('system.theme')->get('admin');
-$admin_theme_name = \Drupal::service('theme_handler')->getName($admin_theme);
+$admin_theme_name = \Drupal::config('system.theme')->get('default');
 ```
 <br />
 
