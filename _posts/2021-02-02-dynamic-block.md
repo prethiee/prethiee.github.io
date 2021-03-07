@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Dynamic Block programatically"
+title: "Creating a Dynamic Block programatically in Drupal 8"
 date: 2021-02-02
 ---
 In this post we will see how we can create a Dynamic block plugin.
