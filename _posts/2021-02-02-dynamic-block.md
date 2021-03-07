@@ -36,4 +36,4 @@ class ExampleBlock extends BlockBase {
 
 }
 ```
-Here setting the value of ` $build['cache']['disabled'] = TRUE;` would disable the caching for this block and displays the content dynamically.
+Here setting the value of `$build['cache']['disabled'] = TRUE;` would disable the caching for this block and displays the content dynamically.
